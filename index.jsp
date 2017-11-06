@@ -19,7 +19,7 @@
         <P>程序片创建Date对象：66999999
             <%    date = new Date();                        
                 out.println("<br>" + date + "<br>");
-                int m = 500;
+                int m = 545;
             %>
             <%=m%>    的因子之和是（不包括<%=m %>）
             <%=getFactorSum(m)%>
