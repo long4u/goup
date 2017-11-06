@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="建设中" /> 
+<meta name="description" content="网站首页建设中" />
+
+<title>我是首页</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #B4D4F4;
+}
+//-->
+</style>
+</head>
+
+<body>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp; 网站首页建设中~~</p>
+<p>&nbsp;</p>
+<h2 align="center"> 祝您生活愉快 ^_^ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </h2><br/><br/>
+<h4 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
+</body>
+</html>
